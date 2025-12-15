@@ -19,3 +19,5 @@ Practicar conceptos básicos de Java como entrada/salida, herencia y sobrecarga 
      javac Java_Stdin_and_Stdout_I/Solution.java
      java Java_Stdin_and_Stdout_I/Solution.java
      ```
+
+<!-- No estaba seguro si estas actividades de Hacker Rank también se subían. Es por ello que no subí las demás --!>
